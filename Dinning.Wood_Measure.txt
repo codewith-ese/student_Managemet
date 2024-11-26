@@ -1,0 +1,30 @@
+ Date: ************** 31-07-2024   23:12:PM    **************
+  |*************CUTTING LIST CALCULATION ************|
+  
+    PROJECT NAME IS **** | DINNING |**** 
+ 
+  First Lenght: 89
+   First width:  77
+  Quantity of first Ms:  6
+ 
+  Second Lenght: 43
+   Second width:  5
+  Quantity of Second Ms :   3
+ 
+  Third Lenght: 55
+   Third width:  3
+  Quantity of Ms :           2
+ 
+  Fourth Lenght: 55
+   Fourth width:  34
+  Quantity of Forth Ms :     6
+  
+ ======================================================= 
+   Total Numbers of Board Used is : 1.8 BOARD /S 
+  ======================================================== 
+  
+   Note the size of a Board is ( 240cm by 120cm )  : 29729.0
+   Total squre Area of board for this cutting is: 53313
+  
+  
+ 

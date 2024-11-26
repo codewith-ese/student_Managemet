@@ -1,0 +1,36 @@
+
+--- Regiration Date    25-11-2024   23:57:PM     
+  STUDENT PERSONAL INFORMATION
+ 
+---   First Name:     Monday
+ ---   Last Name:      Eseinone
+---   Mother's Name:  Aba
+ ---   Address:        Lagos Nigeria
+ ---   Email ID:       eada@gmail.com
+ ---   Gender:         Male
+ ---   Birth Day:      34
+ 
+
+--- Regiration Date    25-11-2024   23:57:PM     
+  STUDENT PERSONAL INFORMATION
+ 
+---   First Name:     Kate 
+ ---   Last Name:      Oluwabisi
+---   Mother's Name:  Busayo
+ ---   Address:        Lagos
+ ---   Email ID:       kate@gmail.com
+ ---   Gender:         Female 
+ ---   Birth Day:      23
+ 
+
+--- Regiration Date    25-11-2024   23:59:PM     
+  STUDENT PERSONAL INFORMATION
+ 
+---   First Name:     Jenifa
+ ---   Last Name:      Omokaro
+---   Mother's Name:  Uwi
+ ---   Address:        Benin City Edo State
+ ---   Email ID:       omokaro@gmail.com
+ ---   Gender:         Female
+ ---   Birth Day:      23
+ 

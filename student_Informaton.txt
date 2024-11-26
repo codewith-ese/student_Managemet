@@ -1,0 +1,30 @@
+
+---  Registration Date:   25-11-2024   23:57:PM     ---
+ ---  STUDENT INFORMATION
+ 
+---  First Name:    Monday
+ ---  Last Name:     Eseinone
+---  Address:       Lagos Nigeria
+ ---  Email ID:      eada@gmail.com
+ ---  Gender:        Male
+ 
+
+---  Registration Date:   25-11-2024   23:57:PM     ---
+ ---  STUDENT INFORMATION
+ 
+---  First Name:    Kate 
+ ---  Last Name:     Oluwabisi
+---  Address:       Lagos
+ ---  Email ID:      kate@gmail.com
+ ---  Gender:        Female 
+ 
+
+---  Registration Date:   25-11-2024   23:59:PM     ---
+ ---  STUDENT INFORMATION
+ 
+---  First Name:    Jenifa
+ ---  Last Name:     Omokaro
+---  Address:       Benin City Edo State
+ ---  Email ID:      omokaro@gmail.com
+ ---  Gender:        Female
+ 
